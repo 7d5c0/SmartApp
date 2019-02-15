@@ -1,0 +1,10 @@
+/*-----------------------------------------------------------------------------------*/
+/* GOOGLE FONT (Yekan) */
+/*-----------------------------------------------------------------------------------*/
+@font-face {
+  font-family: 'Yekan';
+  src: url("../fonts/Yekan/Yekan.eot");
+  src:url("../fonts/Yekan/Yekan.woff") format("woff"), url("../fonts/Yekan/Yekan.ttf") format("truetype"), url("../fonts/Yekan/Yekan.svg") format("svg");
+  font-weight: bold;
+  font-style: normal;
+}
